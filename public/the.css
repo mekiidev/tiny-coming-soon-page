@@ -6,6 +6,9 @@ html, body {
 html {
   display: table;
   font-family: Lato, "Segoe UI", Avenir, Ubuntu, Tahoma, Verdana, Helvetica, sans-serif;
+  background: black;
+  color: white;
+  fill: white;
 }
 
 body {
